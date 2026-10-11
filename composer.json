@@ -10,7 +10,7 @@
     "license": "MIT",
     "require": {
         "flarum/core": "^1.2.0",
-        "fof/oauth": "^1.4"
+        "fof/oauth": "^2.0.0"
     },
     "authors": [
         {
